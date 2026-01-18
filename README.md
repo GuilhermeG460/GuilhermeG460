@@ -20,7 +20,7 @@
     width="420"
   />
 
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeG460&layout=compact&theme=dark"
