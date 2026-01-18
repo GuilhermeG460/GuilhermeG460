@@ -2,13 +2,16 @@
 
   <h1>👋 Olá, eu sou Guilherme</h1>
 
-  <h2>🌐 Portfólio</h2><a href="https://guilhermeg460.github.io/Portfolio/">
-  🔗 Acesse meu portfólio online
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Estudante+de+Programação;HTML+CSS+JavaScript;Focado+em+DOM+e+Projetos" />
 
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Estudante+de+Programação;HTML+CSS+JavaScript;Focado+em+DOM+e+Projetos" />
+  <h2>🌐 Portfólio</h2><a href="https://guilhermeg460.github.io/Portfolio/">
+  🔗 Acesse meu portfólio online
+</a>
+<h2>📫 Contato</h2> =><a href="mailto:guilhermesantosg46@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
   <br><br>
 
@@ -18,9 +21,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
   <br>
-  <h2>📫 Contato</h2> =><a href="mailto:guilhermesantosg46@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
   <br>
 
   <!-- GitHub Stats -->
