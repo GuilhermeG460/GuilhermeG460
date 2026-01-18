@@ -1,25 +1,5 @@
 <div align="center">
 
-  <h2>📂 Meus Projetos</h2>
-
-  <a href="https://github.com/GuilhermeG460/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark" />
-  </a>
-
-  <a href="https://github.com/GuilhermeG460/verificador-idade">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=verificador-idade&theme=dark" />
-  </a>
-
-  <a href="https://github.com/GuilhermeG460/lista-dinamica">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=lista-dinamica&theme=dark" />
-  </a>
-
-</div>
-
-
-
-<div align="center">
-
   <h1>👋 Olá, eu sou Guilherme</h1>
 
   <!-- Animação de texto -->
@@ -40,12 +20,17 @@
     width="420"
   />
 
-  &nbsp;
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeG460&layout=compact&theme=dark"
     width="350"
   />
+
+   <h2>📂 Meus Projetos</h2>
+
+  <a href="https://github.com/GuilhermeG460/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark" />
+  </a>
 </div>
 
 ---
