@@ -16,7 +16,7 @@
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeG460&show_icons=true&theme=dark" />
-  <br><br>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeG460&layout=compact&theme=dark" />
 
 </div>
