@@ -41,6 +41,14 @@
   <a href="https://github.com/GuilhermeG460/Autocars">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Autocars&theme=dark" />
   </a>
+
+   <a href="https://github.com/GuilhermeG460/Projeto-Clone-Yo-Gi-Oh">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Projeto-Clone-Yo-Gi-Oh&theme=dark" />
+  </a>
+  
+   <a href="https://github.com/GuilhermeG460/GuilhermeG460">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=GuilhermeG460&theme=dark" />
+  </a>
 </div>
 
 ---
