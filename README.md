@@ -17,6 +17,9 @@
  <a href="https://guilhermeg460.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-2F2F2F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/guilherme-garcia-408a52348" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
   <br><br>
 
