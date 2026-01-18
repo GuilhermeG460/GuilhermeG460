@@ -6,8 +6,6 @@
 
   <br><br>
 
-  <a href="https://guilhermeg460.github.io/Portfolio/">  <h2>🌐 Portfólio</h2></a>
-  
 <h2>📫 Contato</h2>
 
 <a href="mailto:guilhermesantosg46@gmail.com">
