@@ -6,7 +6,8 @@
 
   <br><br>
 
-  <h2>🌐 Portfólio</h2><a href="https://guilhermeg460.github.io/Portfolio/">
+  <h2>🌐 Portfólio</h2>  <a href="https://guilhermeg460.github.io/Portfolio/">🔗 Acesse meu portfólio online</a>
+  <a href="https://guilhermeg460.github.io/Portfolio/">
   🔗 Acesse meu portfólio online
 </a>
 <h2>📫 Contato</h2> =><a href="mailto:guilhermesantosg46@gmail.com">
