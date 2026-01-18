@@ -14,9 +14,9 @@
 <a href="https://wa.me/5551984128160" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-  <a href="https://guilhermeg460.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+ <a href="https://guilhermeg460.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-2F2F2F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
   <br><br>
 
