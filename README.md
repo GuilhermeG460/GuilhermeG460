@@ -15,10 +15,17 @@
   <br><br>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeG460&show_icons=true&theme=dark" />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeG460&layout=compact&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeG460&show_icons=true&theme=dark"
+    width="420"
+  />
 
+  &nbsp;&nbsp;&nbsp;
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeG460&layout=compact&theme=dark"
+    width="350"
+  />
 </div>
 
 ---
