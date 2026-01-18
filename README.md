@@ -19,14 +19,24 @@
     src="https://github-readme-stats.vercel.app/api?username=GuilhermeG460&show_icons=true&theme=dark"
     width="420"
   />
-
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeG460&layout=compact&theme=dark"
     width="350"
   />
 
    <h2>📂 Meus Projetos</h2>
+
+  <a href="https://github.com/GuilhermeG460/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark" />
+  </a>
+
+  <a href="https://github.com/GuilhermeG460/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark" />
+  </a>
+
+  <a href="https://github.com/GuilhermeG460/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark" />
+  </a>
 
   <a href="https://github.com/GuilhermeG460/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark" />
