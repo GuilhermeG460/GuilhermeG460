@@ -30,16 +30,16 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark" />
   </a>
 
-  <a href="https://github.com/GuilhermeG460/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark" />
+  <a href="https://github.com/GuilhermeG460/Projeto-de-Curso">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Projeto-de-Curso&theme=dark" />
   </a>
 
-  <a href="https://github.com/GuilhermeG460/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark" />
+  <a href="https://github.com/GuilhermeG460/herois">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=herois&theme=dark" />
   </a>
 
-  <a href="https://github.com/GuilhermeG460/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark" />
+  <a href="https://github.com/GuilhermeG460/Autocars">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Autocars&theme=dark" />
   </a>
 </div>
 
