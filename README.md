@@ -6,13 +6,15 @@
 
   <br><br>
 
-  <h2>🌐 Portfólio</h2>  <a href="https://guilhermeg460.github.io/Portfolio/">🔗 Acesse meu portfólio online</a>
-  <a href="https://guilhermeg460.github.io/Portfolio/">
-  🔗 Acesse meu portfólio online
+  <h2>🌐 Portfólio</h2>
+  <a href="https://guilhermeg460.github.io/Portfolio/">🔗 Acesse meu portfólio online</a>
+  
+<h2>📫 Contato</h2>
+
+<a href="tel:+5551999999999">
+  <img src="https://img.shields.io/badge/Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<h2>📫 Contato</h2> =><a href="mailto:guilhermesantosg46@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
 
   <br><br>
 
