@@ -8,7 +8,7 @@
 
 <h2>📫 Contato</h2>
 
-<a href="mailto:guilhermesantosg46@gmail.com">
+<a href="mailto:guilhermesantosg46@gmail.com.br">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="tel:+5551984128160">
