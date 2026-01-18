@@ -2,12 +2,12 @@
 
   <h1>👋 Olá, eu sou Guilherme</h1>
 
-  <h2>🌐 Portfólio</h2>
-<a href="https://guilhermeg460.github.io/Portfolio/">
+  <h2>🌐 Portfólio</h2><a href="https://guilhermeg460.github.io/Portfolio/">
   🔗 Acesse meu portfólio online
 </a>
 
-  <!-- Animação de texto -->
+  <br><br>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Estudante+de+Programação;HTML+CSS+JavaScript;Focado+em+DOM+e+Projetos" />
 
   <br><br>
