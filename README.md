@@ -23,6 +23,8 @@
 
   <br><br>
 
+  ![ok](https://github-readme-stats.vercel.app/api?username=GuilhermeG460)
+
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeG460&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeG460&layout=compact&theme=dark)
