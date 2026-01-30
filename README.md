@@ -23,13 +23,6 @@
 
   <br><br>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeG460&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeG460&layout=compact&theme=dark)
-
-
-  <br><br>
-
   <!-- Badges -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -54,9 +47,6 @@
 🔹 **Clone Yu-Gi-Oh**  
 👉 https://github.com/GuilhermeG460/Projeto-Clone-Yo-Gi-Oh
   
-   <a href="https://github.com/GuilhermeG460/GuilhermeG460">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=GuilhermeG460&theme=dark" />
-  </a>
 </div>
 
 ---
