@@ -23,8 +23,6 @@
 
   <br><br>
 
-  ![ok](https://github-readme-stats.vercel.app/api?username=GuilhermeG460)
-
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeG460&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeG460&layout=compact&theme=dark)
@@ -41,12 +39,20 @@
 
    <h2>📂 Meus Projetos</h2>
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark)](https://github.com/GuilhermeG460/portfolio)
-[![Projeto de Curso](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Projeto-de-Curso&theme=dark)](https://github.com/GuilhermeG460/Projeto-de-Curso)
-[![Heróis](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=herois&theme=dark)](https://github.com/GuilhermeG460/herois)
-[![Autocars](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Autocars&theme=dark)](https://github.com/GuilhermeG460/Autocars)
-[![Yu-Gi-Oh Clone](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Projeto-Clone-Yo-Gi-Oh&theme=dark)](https://github.com/GuilhermeG460/Projeto-Clone-Yo-Gi-Oh)
+🔹 **Portfolio**  
+👉 https://github.com/GuilhermeG460/portfolio
 
+🔹 **Projeto de Curso**  
+👉 https://github.com/GuilhermeG460/Projeto-de-Curso
+
+🔹 **Heróis**  
+👉 https://github.com/GuilhermeG460/herois
+
+🔹 **Autocars**  
+👉 https://github.com/GuilhermeG460/Autocars
+
+🔹 **Clone Yu-Gi-Oh**  
+👉 https://github.com/GuilhermeG460/Projeto-Clone-Yo-Gi-Oh
   
    <a href="https://github.com/GuilhermeG460/GuilhermeG460">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=GuilhermeG460&theme=dark" />
