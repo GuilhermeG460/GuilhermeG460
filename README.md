@@ -23,15 +23,10 @@
 
   <br><br>
 
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GuilhermeG460&show_icons=true&theme=dark"
-    width="420"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeG460&layout=compact&theme=dark"
-    width="350"
-  />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeG460&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeG460&layout=compact&theme=dark)
+
 
   <br><br>
 
@@ -44,25 +39,12 @@
 
    <h2>📂 Meus Projetos</h2>
 
-  <a href="https://github.com/GuilhermeG460/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark" />
-  </a>
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=portfolio&theme=dark)](https://github.com/GuilhermeG460/portfolio)
+[![Projeto de Curso](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Projeto-de-Curso&theme=dark)](https://github.com/GuilhermeG460/Projeto-de-Curso)
+[![Heróis](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=herois&theme=dark)](https://github.com/GuilhermeG460/herois)
+[![Autocars](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Autocars&theme=dark)](https://github.com/GuilhermeG460/Autocars)
+[![Yu-Gi-Oh Clone](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Projeto-Clone-Yo-Gi-Oh&theme=dark)](https://github.com/GuilhermeG460/Projeto-Clone-Yo-Gi-Oh)
 
-  <a href="https://github.com/GuilhermeG460/Projeto-de-Curso">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Projeto-de-Curso&theme=dark" />
-  </a>
-
-  <a href="https://github.com/GuilhermeG460/herois">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=herois&theme=dark" />
-  </a>
-
-  <a href="https://github.com/GuilhermeG460/Autocars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Autocars&theme=dark" />
-  </a>
-
-   <a href="https://github.com/GuilhermeG460/Projeto-Clone-Yo-Gi-Oh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=Projeto-Clone-Yo-Gi-Oh&theme=dark" />
-  </a>
   
    <a href="https://github.com/GuilhermeG460/GuilhermeG460">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeG460&repo=GuilhermeG460&theme=dark" />
