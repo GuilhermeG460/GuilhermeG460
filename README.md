@@ -33,7 +33,7 @@
    <h2>📂 Meus Projetos</h2>
 
 🔹 **Portfolio**  
-👉 https://github.com/GuilhermeG460/portfolio
+👉 https://guilhermeg460.github.io/Portfolio/
 
 🔹 **Projeto de Curso**  
 👉 https://github.com/GuilhermeG460/Projeto-de-Curso
