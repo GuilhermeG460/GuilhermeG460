@@ -45,7 +45,7 @@
 👉 https://github.com/GuilhermeG460/Autocars
 
 🔹 **Clone Yu-Gi-Oh**  
-👉 https://github.com/GuilhermeG460/Projeto-Clone-Yo-Gi-Oh
+👉 https://github.com/GuilhermeG460/Projeto-Clone-Yo-Gi-Oh/tree/main/clone-yu-gi-oh
   
 </div>
 
